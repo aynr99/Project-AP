@@ -1,0 +1,48 @@
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.csprojAssemblyReference.cache
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\App.g.cs
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp_MarkupCompile.cache
+C:\Users\AJ\Desktop\Project AP\WpfAp\bin\Debug\WpfAp.exe.config
+C:\Users\AJ\Desktop\Project AP\WpfAp\bin\Debug\WpfAp.exe
+C:\Users\AJ\Desktop\Project AP\WpfAp\bin\Debug\WpfAp.pdb
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\MainWindow.g.cs
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp_MarkupCompile.lref
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\MainWindow.baml
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.g.resources
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.Properties.Resources.resources
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.csproj.GenerateResource.cache
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.exe
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.pdb
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\Admin_Login.g.cs
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\User_LoginSignUp.g.cs
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\Admin_Login.baml
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\User_LoginSignUp.baml
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\App.baml
+C:\Users\AJ\Desktop\Project AP\WpfAp\bin\Debug\WpfApTheme.Windows.Theme.dll
+C:\Users\AJ\Desktop\Project AP\WpfAp\bin\Debug\WpfApTheme.Windows.Theme.pdb
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\WpfAp.csproj.CopyComplete
+C:\Users\AJ\Desktop\Project AP\WpfAp\obj\Debug\ThemeStyle.baml
+C:\Users\AJ\Desktop\Project-AP\WpfAp\bin\Debug\WpfAp.exe.config
+C:\Users\AJ\Desktop\Project-AP\WpfAp\bin\Debug\WpfAp.exe
+C:\Users\AJ\Desktop\Project-AP\WpfAp\bin\Debug\WpfAp.pdb
+C:\Users\AJ\Desktop\Project-AP\WpfAp\bin\Debug\WpfApTheme.Windows.Theme.dll
+C:\Users\AJ\Desktop\Project-AP\WpfAp\bin\Debug\WpfApTheme.Windows.Theme.pdb
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.csprojAssemblyReference.cache
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\Admin_Login.g.cs
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\MainWindow.g.cs
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\User_LoginSignUp.g.cs
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\App.g.cs
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp_MarkupCompile.cache
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp_MarkupCompile.lref
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\App.baml
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\Admin_Login.baml
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\MainWindow.baml
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\ThemeStyle.baml
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\User_LoginSignUp.baml
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.g.resources
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.Properties.Resources.resources
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.csproj.GenerateResource.cache
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.csproj.CopyComplete
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.exe
+C:\Users\AJ\Desktop\Project-AP\WpfAp\obj\Debug\WpfAp.pdb

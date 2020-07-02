@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAp", "WpfAp.csproj", "{43FD2937-FD74-47BC-8961-16501DD260CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApTheme.Windows.Theme", "..\WpfApTheme.Windows.Theme\WpfApTheme.Windows.Theme.csproj", "{66360F42-B8D3-4DE2-9C21-0B8CFF873D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FD2937-FD74-47BC-8961-16501DD260CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FD2937-FD74-47BC-8961-16501DD260CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FD2937-FD74-47BC-8961-16501DD260CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FD2937-FD74-47BC-8961-16501DD260CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66360F42-B8D3-4DE2-9C21-0B8CFF873D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66360F42-B8D3-4DE2-9C21-0B8CFF873D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66360F42-B8D3-4DE2-9C21-0B8CFF873D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66360F42-B8D3-4DE2-9C21-0B8CFF873D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D2A9FE-122D-46D8-87D1-824016DF90A0}
+	EndGlobalSection
+EndGlobal

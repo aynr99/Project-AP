@@ -1,0 +1,34 @@
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\bin\Debug\WpfApTheme.Windows.Theme.dll
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\bin\Debug\WpfApTheme.Windows.Theme.pdb
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.csprojAssemblyReference.cache
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme_MarkupCompile.cache
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme_MarkupCompile.lref
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\ButtonStyle.baml
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\Theme.baml
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.g.resources
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.Properties.Resources.resources
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.csproj.GenerateResource.cache
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.dll
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.pdb
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\UserControl1.g.cs
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\UserControl1.baml
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\WinStyle.baml
+C:\Users\AJ\Desktop\Project AP\WpfApTheme.Windows.Theme\obj\Debug\TextBoxStyle.baml
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\bin\Debug\WpfApTheme.Windows.Theme.dll
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\bin\Debug\WpfApTheme.Windows.Theme.pdb
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.csprojAssemblyReference.cache
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\UserControl1.g.cs
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme_MarkupCompile.cache
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme_MarkupCompile.lref
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\ButtonStyle.baml
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\TextBoxStyle.baml
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\Theme.baml
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\UserControl1.baml
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WinStyle.baml
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.g.resources
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.Properties.Resources.resources
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.csproj.GenerateResource.cache
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.dll
+C:\Users\AJ\Desktop\Project-AP\WpfApTheme.Windows.Theme\obj\Debug\WpfApTheme.Windows.Theme.pdb
